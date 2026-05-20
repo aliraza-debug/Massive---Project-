@@ -1,0 +1,17 @@
+{
+  "name": "massive_project",
+  "version": "1.0.0",
+  "description": " backend for a project ",
+  "keywords": [
+    "JS",
+    "or",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "ADMINO",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
